@@ -1,8 +1,11 @@
-# React + Vite
+## ReduxWallet
+Streamlined App for Balancing Deposits and Withdrawals.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="960" alt="image" src="https://github.com/Nandini80/ReduxWalletWithDifferentModes/assets/121488571/4380409c-3f74-4238-879b-83258d503ecc">
 
-Currently, two official plugins are available:
+It also uses redux to switch between dark and light theme of the navbar.
+<img width="959" alt="image" src="https://github.com/Nandini80/ReduxWalletWithDifferentModes/assets/121488571/7a648aa2-bc9b-45ce-b036-cf68af7a6de9">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Empower users with the ability to seamlessly switch between Hindi and English languages for an enriched experience.
+<img width="960" alt="image" src="https://github.com/Nandini80/ReduxWalletWithDifferentModes/assets/121488571/8b940c27-b9b7-4ee8-894c-cbb621a2f2a6">
+
